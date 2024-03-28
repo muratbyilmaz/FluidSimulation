@@ -10,8 +10,6 @@
   - [STEP 2 : Nonlinear Convection](navier-stokes-12steps/navier-stokes-12steps-2.py) <br />
   - [STEP 3 : Diffusion Equation in 1D](navier-stokes-12steps/navier-stokes-12steps-3.py) <br />
 
-navier-stokes-12steps
-
 <h2> Working On </h2>
 
 • [Gas Turbine Section](GasTurbineSection) <br />
